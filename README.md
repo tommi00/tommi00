@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Engineering student @ Politecnico di Milano</b><br/>
-  Creator & lead developer of <a href="https://www.unifinder.app" target="_blank"><b>UniFinder</b></a>
+  Creator & lead developer of <a href="https://www.unifinder.app?github" target="_blank"><b>UniFinder</b></a>
 </p>
 
 <p align="center">
@@ -75,16 +75,23 @@ UniFinder is developed end-to-end by me.
 
 ---
 
-## 📊 GitHub at a glance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true" />
-</p>
+## 🔧 Other technical interests & hands-on experience
+Alongside UniFinder, I actively explore and work on other technical domains:
+- **Home automation & smart systems**  
+  Design and configuration of smart home setups, sensors, integrations and automations, with a focus on reliability and real-world usability.
+- **Websites creation with WordPress**  
+  Development of custom WordPress websites, including theme customization, performance optimization, SEO basics and deployment.
+- **Backend & system logic**  
+  Interest in backend architecture, APIs, authentication flows, database design and system-level reasoning beyond the frontend layer.
+These areas complement my main work and reflect my interest in understanding technology as a complete system, from user interaction to infrastructure.
 
 ---
 
-## 📫 Get in touch
-📧 **tommaso.git@gmail.com**  
-🌐 **https://www.unifinder.app**
+## 📊 GitHub at a glance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tommi00&show_icons=true&hide_title=true&hide_border=true" />
+</p>
+
 
 ---
 
