@@ -26,7 +26,7 @@ What makes UniFinder different is not just the idea, but the **engineering behin
 - Personalized orientation **quiz engine**
 - Advanced **courses & universities explorer** with dynamic filters
 - Secure backend with **Postgres, RLS and RPC functions**
-- Data integration from **MIUR, AlmaLaurea and custom scraping**
+- Data integration from **MIUR, AlmaLaurea and more**
 - Fully custom **design system** and mobile-first UX
 - Performance-oriented architecture (egress reduction, caching, edge delivery)
 
