@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Main project
-### 🎓 UniFinder — University Orientation Platform
+### 🎓 UniFinder - University Orientation Platform
 
 UniFinder is a free digital platform that helps Italian high-school students choose their university path based on **interests, competences, motivations and career goals**.
 
