@@ -90,6 +90,9 @@ These areas complement my main work and reflect my interest in understanding tec
 ## 📊 GitHub at a glance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tommi00&show_icons=true&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tommi00&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tommi00&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommi00&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 
