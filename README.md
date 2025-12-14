@@ -48,6 +48,7 @@ UniFinder is developed end-to-end by me.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 </p>
@@ -89,7 +90,6 @@ These areas complement my main work and reflect my interest in understanding tec
 ## 📊 GitHub at a glance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tommi00&show_icons=true&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tommi00&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=tommi00&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommi00&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
